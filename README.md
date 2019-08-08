@@ -5,10 +5,10 @@ Predict Restaurant Rating Based On Zomato Review Dataset
 This script is based on python for creating the machine learning model. We use folium for pointing the restaurant into a map.
 
 # Used Modul / Library 
-> pandas
-> folium
-> from sklearn.naive_bayes import GaussianNB
-> from sklearn.metrics import confusion_matrix
+=> pandas
+=> folium
+=> from sklearn.naive_bayes import GaussianNB
+=> from sklearn.metrics import confusion_matrix
 
 # How To Use 
 
